@@ -1,0 +1,6 @@
+{
+  "name": "PinStudio - Personalizador de Pines y Chapas",
+  "description": "Personalizador profesional de pines y chapas de 58 mm: archivo de corte para imprenta a 300 DPI y mockup 3D interactivo en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
